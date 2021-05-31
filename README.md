@@ -15,7 +15,7 @@ Social Media icon animations with green screen or transparent background for you
 
 2. Import the videos into your project and assemble them however you like. (If you have multiple button click animations playing simultaneously you might choose to mute the "click" audio on all but one.)
 
-## About Social Media Button Animations
+## About Social Media Icon Animations
 
 This project was made by request of a viewer of my subscribe templates. She asked if I'd make some social media icon animations and I did! Once again, I'm making this template Open Source because I want to empower creatives to support themselves. You've worked too hard, too long to give away control. I hope it helps make your first impression for your followers most triumphant! 
 
