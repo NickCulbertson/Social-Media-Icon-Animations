@@ -1,5 +1,5 @@
-# Free Social Media Button Animations | Green Screen or Transparent Background
-Social Media button animations with green screen or transparent background for your videos. Feel free to use it on your YouTube videos. Permission is not needed, just don't repost the full social media video files as-is or duplicate for redistribution. I hope it comes in handy!
+# Free Social Media Icon Animations | Green Screen or Transparent Background
+Social Media icon animations with green screen or transparent background for your videos. Feel free to use it on your YouTube videos. Permission is not needed, just don't repost the full social media video files as-is or duplicate for redistribution. I hope it comes in handy!
 
 
 ## Features
@@ -17,7 +17,7 @@ Social Media button animations with green screen or transparent background for y
 
 ## About Social Media Button Animations
 
-This project was made by request of a viewer of my subscribe templates. She asked if I'd make some social media animations and I did! Once again, I'm making this template Open Source because I want to empower creatives to support themselves. You've worked too hard, too long to give away control. I hope it helps make your first impression for your followers most triumphant! 
+This project was made by request of a viewer of my subscribe templates. She asked if I'd make some social media icon animations and I did! Once again, I'm making this template Open Source because I want to empower creatives to support themselves. You've worked too hard, too long to give away control. I hope it helps make your first impression for your followers most triumphant! 
 
 
 If you have any questions, suggestions, or feedback please send them my way. This is as much for me as it is for you. If you use it, send me a link! I'd love to see your work. 
