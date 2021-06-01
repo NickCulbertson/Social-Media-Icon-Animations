@@ -1,6 +1,9 @@
 # Free Social Media Icon Animations | Green Screen or Transparent Background
 This is a set of Social Media Icon Animations with green screen or transparent background for your videos. Feel free to use them on your YouTube videos. Permission is not needed, just don't repost the full social media video files as-is or duplicate for redistribution. I hope it comes in handy!
 
+(Click the image to watch Free Social Media Icon Animations | Green Screen or Transparent Background)
+
+[![Free Social Media Icon Animations | Green Screen or Transparent Background](https://img.youtube.com/vi/PvhRV6rOljw/0.jpg)](https://www.youtube.com/watch?v=PvhRV6rOljw "Free YouTube Subscribe Button Animation with Green Screen")
 
 ## Features
 
