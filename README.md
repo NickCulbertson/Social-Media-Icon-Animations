@@ -11,6 +11,10 @@ This is a set of Social Media Icon Animations with green screen or transparent b
 
 • Simple Animations with Transparent Background
 
+• SM1 animations include a pop animation with click sound. SM2 animations are just the spin animation.
+
+• The SocialMediaIcons folder includes pngs of each icon if you just need a static image.
+
 
 ## Implementation
 
@@ -21,6 +25,8 @@ This is a set of Social Media Icon Animations with green screen or transparent b
 ## About Social Media Icon Animations
 
 This project was made by request of a viewer of my subscribe templates. She asked if I'd make some social media icon animations and I did! Once again, I'm making this template Open Source because I want to empower creatives to support themselves. You've worked too hard, too long to give away control. I hope it helps make your first impression for your followers most triumphant! 
+
+All branding identities are owned by their respective companies. i.e. Facebook, Twitter, etc.
 
 
 If you have any questions, suggestions, or feedback please send them my way. This is as much for me as it is for you. If you use it, send me a link! I'd love to see your work. 
