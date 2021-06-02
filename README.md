@@ -13,6 +13,8 @@ This is a set of Social Media Icon Animations with green screen or transparent b
 
 • SM1 animations include a pop animation with click sound. SM2 animations are just the spin animation.
 
+• Button_Download and Button_Follow contain a custom changing button state from "Follow" to "Following" (as seen in the video).
+
 • The SocialMediaIcons folder includes pngs of each icon if you just need a static image.
 
 
